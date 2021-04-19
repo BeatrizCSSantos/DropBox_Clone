@@ -2,7 +2,7 @@
 
 ##Projeto clone do DropBox.
 
--upload de arquivos e armazenamento na nuvem e podendo baixar o arquivo, organizar pasta, abrir diretorio.
+-upload de arquivos e armazenamento na nuvem e podendo baixar o arquivo, organizar pasta, abrir diretório, excluir arquivos e pastas.
 
 
 
